@@ -1,6 +1,6 @@
 # 🏋️ NexFit — AI-Powered Fitness Application
 
-An **AI-powered fitness application** built using **Spring Boot, React, and Microservices Architecture**. FitNova allows users to track their fitness activities and receive personalized recommendations powered by **Google Gemini AI**.
+An **AI-powered fitness application** built using **Spring Boot, React, and Microservices Architecture**. Nexfit allows users to track their fitness activities and receive personalized recommendations powered by **Google Gemini AI**.
 
 The project demonstrates a complete full-stack microservices ecosystem including service discovery, API Gateway, authentication, asynchronous communication, centralized configuration, and AI integration.
 
